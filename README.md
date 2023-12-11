@@ -5,3 +5,7 @@
 2. use hardhat to build structures of smart contract(allows run solidity locally, means test tool)  dec: https://hardhat.org/  
    1. npx hardhat init  (create baseic structure)  
    2. npx hardhat text (run test script)
+
+## solidity trick
+  
+   1. use ; on every line or it will broke(struct dont need ; at end)
